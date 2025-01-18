@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "minecraft:jungle_slab"
+        },
+        {
+            "item": "minecraft:jungle_slab"
+        }
+    ],
+    "result": {
+        "id": "minecraft:jungle_planks",
+        "count": 1
+    }
+}

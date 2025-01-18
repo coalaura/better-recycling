@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:book"
+        },
+        {
+            "item": "minecraft:item_frame"
+        },
+        {
+            "item": "minecraft:bundle"
+        }
+    ],
+    "result": {
+        "id": "minecraft:rabbit_hide",
+        "count": 2
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:iron_bars"
+        },
+        {
+            "item": "minecraft:tripwire_hook"
+        },
+        {
+            "item": "minecraft:rail"
+        },
+        {
+            "item": "minecraft:activator_rail"
+        },
+        {
+            "item": "minecraft:detector_rail"
+        },
+        {
+            "item": "minecraft:chain"
+        }
+    ],
+    "result": {
+        "id": "minecraft:iron_nugget",
+        "count": 1
+    }
+}

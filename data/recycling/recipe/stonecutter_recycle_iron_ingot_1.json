@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:iron_shovel"
+        },
+        {
+            "item": "minecraft:iron_door"
+        },
+        {
+            "item": "minecraft:iron_trapdoor"
+        },
+        {
+            "item": "minecraft:iron_hoe"
+        },
+        {
+            "item": "minecraft:iron_sword"
+        },
+        {
+            "item": "minecraft:heavy_weighted_pressure_plate"
+        },
+        {
+            "item": "minecraft:shears"
+        }
+    ],
+    "result": {
+        "id": "minecraft:iron_ingot",
+        "count": 1
+    }
+}

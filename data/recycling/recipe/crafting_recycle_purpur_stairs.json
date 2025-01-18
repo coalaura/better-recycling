@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "minecraft:purpur_stairs"
+        },
+        {
+            "item": "minecraft:purpur_stairs"
+        }
+    ],
+    "result": {
+        "id": "minecraft:purpur",
+        "count": 2
+    }
+}

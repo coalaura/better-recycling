@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "minecraft:stone_stairs"
+        },
+        {
+            "item": "minecraft:stone_stairs"
+        }
+    ],
+    "result": {
+        "id": "minecraft:stone",
+        "count": 2
+    }
+}

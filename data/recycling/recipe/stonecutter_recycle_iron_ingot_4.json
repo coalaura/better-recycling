@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:hopper"
+        },
+        {
+            "item": "minecraft:minecart"
+        },
+        {
+            "item": "minecraft:iron_chestplate"
+        },
+        {
+            "item": "minecraft:iron_leggings"
+        }
+    ],
+    "result": {
+        "id": "minecraft:iron_ingot",
+        "count": 4
+    }
+}

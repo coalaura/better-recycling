@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:golden_carrot"
+        },
+        {
+            "item": "minecraft:tripwire_hook"
+        },
+        {
+            "item": "minecraft:powered_rail"
+        }
+    ],
+    "result": {
+        "id": "minecraft:gold_nugget",
+        "count": 1
+    }
+}

@@ -1,3 +1,5 @@
+# Better Recycling
+
 **Better Recycling** makes Minecraft more sustainable by introducing a variety of crafting and stonecutting recipes that let players recycle items and blocks. With this datapack, you can recover materials from previously crafted items and blocks, adding a fun and practical way to manage your resources.
 
 ## Slabs to Blocks

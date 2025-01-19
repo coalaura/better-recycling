@@ -3,14 +3,14 @@
     "category": "building",
     "ingredients": [
         {
-            "item": "minecraft:smooth_stone_stairs"
+            "item": "minecraft:tuff_brick_stairs"
         },
         {
-            "item": "minecraft:smooth_stone_stairs"
+            "item": "minecraft:tuff_brick_stairs"
         }
     ],
     "result": {
-        "id": "minecraft:smooth_stone",
+        "id": "minecraft:tuff_bricks",
         "count": 2
     }
 }

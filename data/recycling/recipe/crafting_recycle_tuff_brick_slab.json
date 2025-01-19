@@ -3,14 +3,14 @@
     "category": "building",
     "ingredients": [
         {
-            "item": "minecraft:tuff_brick_slab_stairs"
+            "item": "minecraft:tuff_brick_slab"
         },
         {
-            "item": "minecraft:tuff_brick_slab_stairs"
+            "item": "minecraft:tuff_brick_slab"
         }
     ],
     "result": {
         "id": "minecraft:tuff_bricks",
-        "count": 2
+        "count": 1
     }
 }

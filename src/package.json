@@ -1,0 +1,11 @@
+{
+  "name": "better-recycling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "coalaura",
+  "license": "MIT",
+  "dependencies": {
+    "yauzl": "^3.2.0"
+  }
+}

@@ -1,4 +1,4 @@
-const { readFileSync, writeFileSync } = require("node:fs");
+import { writeFileSync } from "node:fs";
 
 const variants = [
 		"blackstone",
@@ -51,7 +51,7 @@ for (const variant of variants) {
 	const inputItem = input.replace("{variant}", inputVariant),
 		outputItem = output.replace("{variant}", outputVariant);
 
-	const path = `./data/recycling/recipe/crafting_recycle_${inputItem}.json`;
+	const path = `../data/recycling/recipe/crafting_recycle_${inputItem}.json`;
 
 	const recipe = {
 		type: "minecraft:crafting_shapeless",

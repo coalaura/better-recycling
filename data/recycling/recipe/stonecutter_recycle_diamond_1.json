@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        {
+            "item": "minecraft:diamond_shovel"
+        },
+        {
+            "item": "minecraft:diamond_hoe"
+        },
+        {
+            "item": "minecraft:diamond_sword"
+        }
+    ],
+    "result": {
+        "id": "minecraft:diamond",
+        "count": 1
+    }
+}
